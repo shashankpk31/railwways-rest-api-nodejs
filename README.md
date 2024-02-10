@@ -4,7 +4,9 @@ Railwways Ticket Booking Rest API Service which is basically for the backend ser
 ## General Information:
 
 **Application Name:** Railwways
+
 **Target Audience:** API is intended for handling the Railway Ticket Booking done by the user by using the Railway React Application.
+
 **Purpose:** I am creating this api to handle all the service of CRUD operation done from the React application.
 
 ## Technical Details:
